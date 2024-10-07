@@ -1,0 +1,47 @@
+body{
+    background-color:rgba(136, 136, 136, 0.26);
+}
+.row{
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.colon{
+    display:flex;
+    background: white;
+    border: 1px solid rgb(0, 187, 0);
+    padding: 20px;
+    margin-bottom: 2%;
+    border-radius: 8px;   
+}
+.colon img{
+    width: 500px;
+    height: 500px;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(0, 187, 0);;
+    font-size: 50px;
+    font-family: fantasy;
+}
+p{
+    font-size: 20px;
+    margin-left: 5%; 
+}
+.descriptif{
+    color: rgb(0, 187, 0);;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5%;
+}
+h2{
+    font-size: 40px;
+    font-family: cursive;
+    margin-left: 10%;
+}
+.text{
+    margin-left: 20px;
+}

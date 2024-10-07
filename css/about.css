@@ -1,0 +1,33 @@
+body{
+    background-color:rgba(136, 136, 136, 0.26);
+    margin: 10% 20% 0 10%;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.container .logo img{
+    height: 400px;
+}
+.contact{
+    font-weight: bold;
+}
+.desc{
+    line-break: unset;
+    font-weight: bold;
+}
+.adresse{
+    font-weight: bold;
+}
+h3{
+    color:rgb(0, 187, 0);
+}
+.media a{
+    text-decoration: none;
+}
+.media img{
+    margin: 10px 0 0 20px;
+    height:40px;
+    width: 40px;
+}

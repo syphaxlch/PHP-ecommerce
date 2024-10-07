@@ -1,0 +1,75 @@
+body{
+    margin: 70px 20% 10px 20%;
+    background:rgba(136, 136, 136, 0.26)
+}
+.container{
+
+    background-color: white;
+    border-radius: 20px;
+    border-color: #d82c2e;
+    padding-bottom: 2%;
+}
+
+.imagesprofil{
+        text-align: center;
+        position: relative;
+        padding-top: 1% ;
+}
+.imagesprofil img{
+    width: 20%;
+}
+
+.coln{
+    width: 100%;
+    margin: 5%;
+
+}
+.coln input{
+    float: right;
+    margin-right: 10%;
+}
+.zonetxt{
+    width: 60%;
+    height: 30px;
+}
+.comments{
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px;
+}
+.btn-inscription{
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+    text-transform: uppercase;
+    padding: 18px;
+    margin-left: 15%;
+}
+.btn-inscription:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(0, 187, 0);
+    text-transform: uppercase;
+    padding: 18px;
+    margin-left: 15%;
+}
+.btn-connexion{
+    width: 40%;
+    height: 50px;
+    border: 1px solid #ddd;
+    background: rgb(0, 187, 0);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 18px;
+    border-radius: 10px;
+    transition: all 0.3s ease-in 0s;
+    margin-left: 15%;
+}
+.btn-connexion:hover{
+    background: #000000;
+    color: white;
+    border-color:rgb(0, 187, 0);;
+    cursor: pointer;
+}

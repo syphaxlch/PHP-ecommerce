@@ -1,0 +1,54 @@
+body{
+    background-color:rgba(136, 136, 136, 0.26);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.text-logo{
+    text-align: center;
+    color: #d3551a;
+    font-size: 30px;
+    font-family: cursive;
+}
+.row{
+
+    padding:5% 5% 10% 5;
+}
+.colon{
+    background: white;
+    padding: 20px;
+    margin-bottom: 2%;
+    border-radius: 8px;
+    border:1px solid #d3551a;
+}
+.colon img{
+    width: 500px;
+    height: 500px;
+
+}
+
+.text{
+    display: flex;
+}
+form h1{
+    text-align: center;
+    color: #000000;
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+    margin-left: 5%;
+   
+}
+.btn-retour{
+    border: none;
+    background-color: rgb(0, 60, 255);
+    cursor: pointer;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 30px;
+    width: 150px;
+}

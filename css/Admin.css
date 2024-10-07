@@ -1,0 +1,92 @@
+body{
+    background-color:rgba(136, 136, 136, 0.26);
+}
+.text-logo{
+    text-align: center;
+    color: #d3551a;
+    font-size: 30px;
+    font-family: cursive;
+}
+.container{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    border-radius: 5px;
+}
+.btn-ajouter{
+    color: white;
+    background-color: #28a745;
+    font-size: 20px;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+tr{
+    text-align: center;
+    height: 50px;
+}
+
+table tr strong{
+    font-size: 30px;
+}
+.btn-voir{
+    border: none;
+    cursor: pointer;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+
+}
+.btn-modifier{
+    border: none;
+    background-color: rgb(0, 60, 255);
+    cursor: pointer;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 30px;
+    width: 150px;
+}
+
+.btn-supprimer{
+    border: none;
+    background-color: rgba(95, 2, 2, 0.898);
+    cursor: pointer;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+
+}
+.btn-acceuil{
+    color: white;
+    background-color: #d3551a;
+    font-size: 20px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn-deconnexion{
+    color: white;
+    background-color: #d3551a;
+    font-size: 20px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    cursor: pointer;
+}

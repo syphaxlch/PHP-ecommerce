@@ -1,0 +1,19 @@
+.container{
+    padding-top: 100px;
+    margin: 10px 10% 10px 10%;
+}
+td{
+    text-align: center;
+}
+a{
+    margin-right:15px ;
+}
+.prix{
+    color: green;
+}
+.btn-commander{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
