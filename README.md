@@ -19,5 +19,3 @@ Ce projet m’a permis de découvrir :
 - La gestion d'une **base de données relationnelle** avec MySQL.
 - L’utilisation de **XAMPP** et **Apache** pour héberger une application localement.
 - La mise en place d'un **dashboard admin** et d'un système d'authentification pour gérer les utilisateurs et les produits.
-
-🚀 Ce fut une première expérience dans le développement web.
